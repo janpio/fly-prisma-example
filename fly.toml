@@ -1,6 +1,6 @@
-# fly.toml file generated for fragrant-brook-987 on 2021-04-29T21:52:55+02:00
+# fly.toml file generated for winter-meadow-5740 on 2021-05-04T23:46:50+02:00
 
-app = "fragrant-brook-987"
+app = "winter-meadow-5740"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
